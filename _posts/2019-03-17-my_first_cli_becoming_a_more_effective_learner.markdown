@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "My First CLI: Becoming a more effective Learner!"
+title:      "My First CLI: Becoming a more effective 'Learn'er!"
 date:       2019-03-17 23:57:54 -0400
 permalink:  my_first_cli_becoming_a_more_effective_learner
 ---
