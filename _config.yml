@@ -6,7 +6,7 @@ email: reachryanmui@gmail.com
 copyright_name: R M
 description: > # this means to ignore newlines until "baseurl:"
   WEB Development
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://yumacorn.github.io/my_first_cli_becoming_a_more_effective_learner" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Yumacorn
 
