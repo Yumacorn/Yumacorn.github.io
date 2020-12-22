@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Setup Issues - and how to move past them"
-date:       2020-12-22 05:25:12 +0000
+title:      "Setup Issues - and How to Move Past Them"
+date:       2020-12-22 00:25:13 -0500
 permalink:  setup_issues_-_and_how_to_move_past_them
 ---
 
