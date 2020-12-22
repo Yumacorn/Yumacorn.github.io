@@ -17,6 +17,11 @@ Here are 4 ways to troubleshoot and hopefully figure out a way around your obsta
 
 Some coding languages (specifically but not limited to Ruby) are extremely user friendly when it comes to identifying the root cause of why something didn't work as intended! My first tool in the coding toolkit that has helped me through thick and thin is to rely on the Ruby Gem pry.
 
+
+![](https://imgur.com/lKkI6t1)
+
+![https://imgur.com/lKkI6t1](http://)
+
 The concept is that you can 'pry' open a point in your code flow and stop time... I mean, verify that your variables and methods are accesible and reading as expected for your code to work.
 
 To do so, navigate to your Gemfile file in your folder tree, add `gem pry` and then in your terminal, run `bundle install` to make sure the gem has properly been installed. Then drop a `binding.pry` wherever in your codebase you suspect your program faces an error and you need to do some troubleshooting to make sure all of your expected methods and variables are generating correctly. Then methodically follow your code flow and move the `binding.pry` as you go!
@@ -31,7 +36,7 @@ The internet is an endless mountain of information. But knowing how to search fo
 
 **# 4** - Phone a Friend
 
-But really though, getting a second pair of eyes or reaching out to someone in the Slack Community can be vital to coming up with a solution or attempting a new approach. The entire community of developers are all continuously learning and building up their knowledge not only by their own research, but also coordinating and helping others as they have been helped before them. Problem with trying to figure out OmniAuth and implement a login strategy? So how tons of others! In fact, there's several several Blog posts and how-to's to help guide new programmers to navigate their tricky setup. Once you've gotten the hang of a skill and know the pitfalls because you asked for insight or advice, the easier it is the next time you come across it. Maybe even help the next person who comes along and struggles with the same issue!
+But really though, getting a second pair of eyes or reaching out to someone in the Slack Community can be vital to coming up with a solution or attempting a new approach. The entire community of developers are all continuously learning and building up their knowledge not only by their own research, but also coordinating and helping others as they have been helped before them. Problem with trying to figure out OmniAuth and implement a login strategy? So have tons of others! In fact, there's several several Blog posts and how-to's to help guide new programmers to navigate their tricky setup. Once you've gotten the hang of a skill and know the pitfalls because you asked for insight or advice, the easier it is the next time you come across it. Maybe even help the next person who comes along and struggles with the same issue!
 
 
 Hopefully, these are tips/strategies that you already know are effective and very useful tools to keep in your toolkit.
