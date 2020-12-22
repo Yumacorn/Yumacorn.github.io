@@ -1,11 +1,11 @@
 # Site settings
-author: R M
-title: Journey into the Unknown - World of WebDev
+author: Ryan Mui
+title: Journey into the Unknown
 header-img: img/home-bg.png
 email: reachryanmui@gmail.com
-copyright_name: R M
+copyright_name: Ryan Mui
 description: > # this means to ignore newlines until "baseurl:"
-  WEB Development
+  World of Web Dev Awaits 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Yumacorn
