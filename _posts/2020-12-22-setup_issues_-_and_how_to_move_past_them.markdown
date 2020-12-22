@@ -18,9 +18,8 @@ Here are 4 ways to troubleshoot and hopefully figure out a way around your obsta
 Some coding languages (specifically but not limited to Ruby) are extremely user friendly when it comes to identifying the root cause of why something didn't work as intended! My first tool in the coding toolkit that has helped me through thick and thin is to rely on the Ruby Gem pry.
 
 
-![](https://imgur.com/lKkI6t1)
+![binding.pry](https://i.imgur.com/lKkI6t1.png)
 
-![https://imgur.com/lKkI6t1](http://)
 
 The concept is that you can 'pry' open a point in your code flow and stop time... I mean, verify that your variables and methods are accesible and reading as expected for your code to work.
 
@@ -30,9 +29,13 @@ To do so, navigate to your Gemfile file in your folder tree, add `gem pry` and t
 
 Often, the program will throw an error indicating where the code came to a stop, which controller or method it can be found in, and even the line of code you should be looking into. While it might not explicitly inform you what to do the fix it, those errors can be copy/pasted, looked up and searched for to see if other Programmer (such as yourself!) have encountered and how to approach the problem. Using this in conjunction the previous suggestion, will help clarify what might be your current error
 
+![Stack Trace](https://i.imgur.com/vUSzZxy.png)
+
 **# 3** - Documentation and Guides
 
 The internet is an endless mountain of information. But knowing how to search for what your looking for can be a bit tricky sometimes. Some hints, use general terms like "ruby guide omniauth" or "rails generate model" to focus your search, then tweak based on the search results if those answers are helpful to you. Even if you think you've searched to no avail, changing some of the search parameters can yield a new batch of helpful [StackOverflow.com](http://) and [Ruby API doc](https://api.rubyonrails.org/) to help you understand how a new method is supposed to be implemented.
+
+![Ruby and Ruby](https://i.imgur.com/PdSGYvy.png)
 
 **# 4** - Phone a Friend
 
