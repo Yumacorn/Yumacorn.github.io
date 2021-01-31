@@ -9,7 +9,7 @@ The last few months have been difficult for families to celebrate together and s
 
 I thought it would be a fun and helpful idea to use Javascript to build an application to help families keep ordering out simple, even if everyone wants something different for the evening!
 
-![Takeout Order App](https://imgur.com/a/ESCGpPg)
+![Takeout Order App](https://imgur.com/a/ESCGpPg.png)
 
 In order to keep this flexible, I ensured that Users would be able to add Restaurants at their own discretion, and that as more favorites dishes or items were learned by exploring a menu, the User could add those items to this App to make them easier for future ordering!
 
@@ -20,7 +20,7 @@ Added in hide/show functionality to both the Restaurant and the Item views, allo
 Oh and of course, if for some reason a User were to add a "Sushi dish" worth $10,000,000, please allow them to remove the error! Added removal functionality from both the "Item" view and the "Cart" view as not all dinner choices need to be final!
 
 
-![Takeout Order App - Cart View](https://imgur.com/a/IZv9bFd)
+![Takeout Order App - Cart View](https://imgur.com/a/IZv9bFd.png)
 
 Feel free to slack me or ask me to answer any questions! 
 *** reachryanmui@gmail.com
@@ -47,11 +47,11 @@ By flipping between different approaches, looking at Overstackflow and other WEB
 * DO console.log your eventlistener events! - Doing so let's you navigate around your element, and confirm how you're going to achieve your next goal. Piece by piece, your app will come to life!
 
 
-![addEventListener](https://imgur.com/a/yiTPSwP)
+![addEventListener](https://imgur.com/a/yiTPSwP.png)
 
 * DO remember to clear your forms after submitting - Because you will be using `e.preventDefault()` or `event.preventDefault()` consistently with your eventListener techniques, some people forget to clear the forms out following submission. This makes for a good user experience because of responsiveness and keeping your WEB app clear of old info
 
-![clearTheOldInfo](https://imgur.com/a/KCxmsM0)
+![clearTheOldInfo](https://imgur.com/a/KCxmsM0.png)
 
 I hope these general tips help, I'll add more specific ones as I continue to learn Javascript!
 
