@@ -1,11 +1,31 @@
 ---
 layout: post
-title:      "Javascript makes a website feel great - Must Knows!"
+title:      "Javascript Project: Takeout Order - Quarantine Safely!"
 date:       2021-01-31 02:58:43 -0500
 permalink:  javascript_makes_a_website_feel_great_-_must_knows
 ---
 
+The last few months have been difficult for families to celebrate together and stay healthy together. Knowing this myself, a lot of people have turned to ordering takeout from local business, restaurants they've never experienced before, and sharing good eats with loved ones and neighbors!
 
+I thought it would be a fun and helpful idea to use Javascript to build an application to help families keep ordering out simple, even if everyone wants something different for the evening!
+
+![Takeout Order App](https://imgur.com/a/ESCGpPg)
+
+In order to keep this flexible, I ensured that Users would be able to add Restaurants at their own discretion, and that as more favorites dishes or items were learned by exploring a menu, the User could add those items to this App to make them easier for future ordering!
+
+Keep it simple, keep it organized, and support local business!
+
+Added in hide/show functionality to both the Restaurant and the Item views, allowing for quick overviews of what's on the menu and hiding anything that "you're not feeling" this night, whether it be the beloved Pizza or the good ole' reliable Chinese takeout food
+
+Oh and of course, if for some reason a User were to add a "Sushi dish" worth $10,000,000, please allow them to remove the error! Added removal functionality from both the "Item" view and the "Cart" view as not all dinner choices need to be final!
+
+
+![Takeout Order App - Cart View](https://imgur.com/a/IZv9bFd)
+
+Feel free to slack me or ask me to answer any questions! 
+*** reachryanmui@gmail.com
+**
+---------------------------------------------------------------------------
 Javascript is the part of WEB Development where you really get to see the interactivity and responsiveness of your learning come together.
 
 Part of the amazing side of technology is how instantaneous our work can come to life and interact with the world! In order for WEB Developers to bring their websites to life and feel great in the hands of a user, it is a key feature to use Javascript and the toolkit it provides to bring to life functions, clickable buttons, and dynamically updating web pages to make for a smooth and enjoyable website!
