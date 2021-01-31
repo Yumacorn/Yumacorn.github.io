@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript makes a website feel great - Must Knows!"
-date:       2021-01-31 07:58:43 +0000
+date:       2021-01-31 02:58:43 -0500
 permalink:  javascript_makes_a_website_feel_great_-_must_knows
 ---
 
@@ -28,5 +28,11 @@ By flipping between different approaches, looking at Overstackflow and other WEB
 
 
 ![addEventListener](https://imgur.com/a/yiTPSwP)
+
+* DO remember to clear your forms after submitting - Because you will be using `e.preventDefault()` or `event.preventDefault()` consistently with your eventListener techniques, some people forget to clear the forms out following submission. This makes for a good user experience because of responsiveness and keeping your WEB app clear of old info
+
+![clearTheOldInfo](https://imgur.com/a/KCxmsM0)
+
+I hope these general tips help, I'll add more specific ones as I continue to learn Javascript!
 
 
